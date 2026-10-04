@@ -1,0 +1,13 @@
+{
+  "name": "playlist_app",
+  "version": "1.0.0",
+  "description": "Full Stack Development Mini Project-1",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "keywords": [],
+  "author": "Lionel Fernandes",
+  "license": "ISC",
+  "type": "commonjs"
+}
